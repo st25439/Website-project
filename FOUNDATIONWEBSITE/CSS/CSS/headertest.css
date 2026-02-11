@@ -1,0 +1,10 @@
+h1 {
+    background-color: yellow;
+    color: black;
+    font-size: 60px;
+}
+ div h1 {
+    background-color: chartreuse;
+    color: chocolate;
+
+}
